@@ -21,3 +21,7 @@ O projeto consiste em dois arquivos principais:
 
    ```sh
    javac Main.java TargetClass.java
+2. **Execute os arquivos Java:**
+   ```sh
+   java Main TargetClass execute
+
