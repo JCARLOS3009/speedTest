@@ -20,6 +20,7 @@ O projeto consiste em dois arquivos principais:
 2. **Compile os arquivos Java:**
 
    ```sh
+   cd src/java
    javac Main.java TargetClass.java
 2. **Execute os arquivos Java:**
    ```sh
